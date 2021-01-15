@@ -1,1 +1,1 @@
-var playlist = { Dua Lipa: "Levitating" };
+var playlist = { DuaLipa: "Levitating" };
