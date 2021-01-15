@@ -1,7 +1,7 @@
-var playlist = { 'Phil Ochs': 'SlowDive' };
+var playlist = { 'Phil Ochs': 'LoveMeImALiberal' };
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  return Object.assign({}, playlist, { 'Phil Ochs': ['myBloodyValentine']})
+  return Object.assign({}, playlist, { 'My Bloody Valentine': ['OnlyShallow']})
 }
 
 function removeFromPlaylist(playlist, artistName) {
